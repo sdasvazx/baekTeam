@@ -8,7 +8,7 @@
 - **유다연** : https://github.com/20222267-stack
 - **이은아** : https://github.com/euna0428
 - **윤혁재** : https://github.com/YOONHyukjae
-- -**이지온** : https://github.com/izzyon0121
+- **이지온** : https://github.com/izzyon0121
 ---
 ### 팀 url
 - **세븐일레븐** : https://github.com/Seven-Eleven-team/SevenEleven
